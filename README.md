@@ -5,8 +5,9 @@ This LSTM code is use to develop a prediciton model using time series data.
 Prediciton model for time series data prediction using LSTM
 
 2. Project Description: 
-The code train and test the LSTM moel for predicting GIC.
-It uses time series data related to the space weather.
+The code train and test the long short-term memory (LSTM) model for predicting a time series data.
+You can amend the result to train Bidirectional LSTM (BiLSTM) model and compare the results.
+It uses time series data for both, the input and output.
 This model can be used for other time series datasets.
 This code runs on Matlab.
 
